@@ -29,7 +29,7 @@ public class AllCIndentationPlugin implements Plugin{
 	
 	@Override
 	public String getName() {
-		return "All-In-One C Auto Indent";
+		return "Auto-Indent(C, C++ & C#)";
 	}
 	
 	@Override
@@ -59,7 +59,7 @@ public class AllCIndentationPlugin implements Plugin{
 	
 	@Override
 	public String getSizeInMegaBytes() {
-		return "0.01 MB";
+		return "0.045 MB";
 	}
 	
 	@Override
